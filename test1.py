@@ -9,4 +9,4 @@ def knotengrad(x):
         print(grad)
 
 
-knotengrad(b)
+knotengrad(c)
